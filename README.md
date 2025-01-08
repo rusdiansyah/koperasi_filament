@@ -10,6 +10,7 @@ Sistem Informasi Koperasi Simpan Pinjam yang terdiri dari Halaman Admin dan Angg
 - php artisan make:filament-user
 
 
+Apabila ingin ada pengembangan di Aplikasi Koperasi silahkan hubungi Profil Pembuat
 ## Profil Pembuat
 - [Blog] [https://deddyrusdiansyah.blogspot.com]
 - [Website] [https://deddydev.com]
